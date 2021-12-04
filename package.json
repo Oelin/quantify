@@ -1,0 +1,22 @@
+{
+  "name": "someall",
+  "version": "1.0.0",
+  "description": "Universal and existential quantifiers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oelin/someall.git"
+  },
+  "keywords": [
+    "logic"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oelin/someall/issues"
+  },
+  "homepage": "https://github.com/Oelin/someall#readme"
+}
